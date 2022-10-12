@@ -1,0 +1,90 @@
+# User-specific uVision files
+*.opt
+*.uvopt
+*.uvoptx
+*.uvgui
+*.uvgui.*
+*.uvguix.*
+*.scvd
+
+# Listing files
+*.cod
+*.htm
+*.i
+*.lst
+*.map
+*.m51
+*.m66
+# define exception below if needed
+*.scr
+
+# Object and HEX files
+*.axf
+*.b[0-3][0-9]
+*.hex
+*.d
+*.crf
+*.elf
+*.hex
+*.h86
+*.lib
+*.obj
+*.o
+*.sbr
+*.bin
+
+# Build files
+# define exception below if needed
+*.bat
+*._ia
+*.__i
+*._ii
+
+# Generated output files
+Listings
+Objects
+Output
+DebugConfig
+JLinkLog.txt
+project/*.bin
+
+# Debugger files
+# define exception below if needed
+*.ini
+
+# Backup files
+*.bak
+*.back
+
+# Other files
+*.build_log.htm
+*.cdb
+*.dep
+*.ic
+*.lin
+*.lnp
+*.orc
+# define exception below if needed
+*.pack
+# define exception below if needed
+*.pdsc
+*.plg
+# define exception below if needed
+*.sct
+*.sfd
+*.sfr
+
+# Miscellaneous
+*.tra
+*.fed
+*.l1p
+*.l2p
+*.iex
+
+# To explicitly override the above, define any exceptions here; e.g.:
+# !my_customized_scatter_file.sct
+
+# Source insight project files
+/SI/*
+*.si4project/
+
